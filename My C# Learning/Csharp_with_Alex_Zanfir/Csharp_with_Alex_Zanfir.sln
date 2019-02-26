@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forloop_challenge", "Forloo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTracker", "SchoolTracker\SchoolTracker.csproj", "{B54DB88B-C912-419A-8431-166EAD9ADB2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survey", "Survey\Survey.csproj", "{979FB2E4-20BA-4721-8C4D-5DF0B1B587D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survey2", "Survey2\Survey2.csproj", "{2817C651-CAF7-4786-8286-E7CC1904C041}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B54DB88B-C912-419A-8431-166EAD9ADB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B54DB88B-C912-419A-8431-166EAD9ADB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B54DB88B-C912-419A-8431-166EAD9ADB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979FB2E4-20BA-4721-8C4D-5DF0B1B587D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979FB2E4-20BA-4721-8C4D-5DF0B1B587D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979FB2E4-20BA-4721-8C4D-5DF0B1B587D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979FB2E4-20BA-4721-8C4D-5DF0B1B587D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2817C651-CAF7-4786-8286-E7CC1904C041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2817C651-CAF7-4786-8286-E7CC1904C041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2817C651-CAF7-4786-8286-E7CC1904C041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2817C651-CAF7-4786-8286-E7CC1904C041}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
